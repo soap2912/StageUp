@@ -1,0 +1,3 @@
+﻿Calsses dentro da DAL são classes que fazem ligação com banco de dados, contendo as querys e funcionalidades para obter dados dos usuarios
+ConsultaUsuario> Consulta no banco de dados se usuario existe; feita para ser utilizada na tela de loguin; também pegas as info do usuario
+UsuarioAtivo> deixa status de ativo no banco de dados

@@ -1,0 +1,2 @@
+﻿CookieUsuario> cria um cookie para o usuario logar, alem de amarzenar indormações do usuario  em json
+LerCookieUsuario> Lê as informações contidas em json do cookie

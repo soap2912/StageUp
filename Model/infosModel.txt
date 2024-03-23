@@ -1,0 +1,6 @@
+﻿Classe que contem regras de negocio
+AlertJS> classe que verifica os erros que podem ocorrer com o cadastr
+Dados cadastro> seta os dados necessários para verificar cadastro do usuario
+Empresa> contem objs que representam os dados da empresa
+Usuario> contem objs que representam os dados do usuario
+VerificaEmail> verifica se estrutura do email segue o padrao xxx@xxx.xxx
